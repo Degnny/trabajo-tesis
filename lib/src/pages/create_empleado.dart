@@ -10,7 +10,10 @@ class CreateEmpleadoPage extends StatefulWidget {
 class _CreateEmpleadoPageState extends State<CreateEmpleadoPage> {
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return Scaffold(
+      appBar: AppBar(
+        
+      ),
       
     );
   }
