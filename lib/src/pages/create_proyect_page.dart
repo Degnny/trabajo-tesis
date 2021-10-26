@@ -177,7 +177,7 @@ class _CreateProyectPageState extends State<CreateProyectPage> {
                 child: TextFormField(
                   autofocus: false,
                   decoration: InputDecoration(
-                    hintText: 'Seleccione el  area',
+                    hintText: 'Escoga el  area',
                     border: OutlineInputBorder(
                       borderSide: BorderSide.none
                     ),
